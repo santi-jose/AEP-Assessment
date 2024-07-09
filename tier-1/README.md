@@ -1,4 +1,4 @@
-# Easy Questions
+# Tier 1 Questions
 
 There are only 2 questions here:
 

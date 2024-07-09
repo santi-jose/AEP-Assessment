@@ -1,4 +1,4 @@
-# Intermediate Questions
+# Tier 2 Questions
 
 There are only 2 questions here:
 

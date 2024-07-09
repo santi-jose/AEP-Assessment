@@ -1,4 +1,4 @@
-# Hard Question
+# Tier 3 Question
 
 ### Pascal's Triangle
 
